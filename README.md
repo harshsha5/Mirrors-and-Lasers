@@ -12,4 +12,4 @@ Notes:
 
 Instructions to run:
 
-Simply copy the file to your current working directory and type in python mirror.py
+Simply copy the file to your current working directory and type in 'python mirror.py'
