@@ -9,3 +9,7 @@ Assumptions:
 
 Notes: 
 1) The code has been written in accordance with the input and output mentioned in the question file. However, other alternate input methods can be used too. One of them has been written in the code but commented. 
+
+Instructions to run:
+
+Simply copy the file to your current working directory and type in python mirror.py
